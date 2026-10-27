@@ -1,0 +1,5 @@
+@"
+requests
+pytest
+pytest-html
+"@ | Set-Content -Encoding utf8 requirements.txt
